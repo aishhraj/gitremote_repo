@@ -3,4 +3,4 @@ Test repo
 github_demo
 change in local repository
 change in remote 
-chnage to check fetch
+change to check fetch
